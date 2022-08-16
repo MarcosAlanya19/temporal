@@ -3,7 +3,6 @@ import './style/about.css'
 import './style/contact.css'
 import './style/courses.css'
 import './router/index.routes'
-import 'animate.css';
 
 import { router } from './router/index.routes'
 
